@@ -1,0 +1,17 @@
+[
+    {
+      "name": "AdhocReboot",
+      "repo": "https://github.com/PHP-EF/plugin-adhoc-reboot",
+      "author": "TinyTechLabUK",
+      "category": "Server",
+      "description": "This PHP-EF plugin provides an Adhoc Reboot Automation.",
+      "icon": "https://raw.githubusercontent.com/TehMuffinMoo/php-ef-plugin-cmdb/main/logo.png",
+      "contact": "https://github.com/PHP-EF/plugin-adhocreboot/issues",
+      "link": "https://github.com/PHP-EF/plugin-adhocreboot",
+      "version": "1.0.0.",
+      "minimum_php-ef_version": "0.7.2",
+      "release_date": "2025-02-17",
+      "last_updated": "2025-02-17",
+      "github_folder": ""
+    }
+]
